@@ -25,8 +25,9 @@
 ---
 
 ## 🎥 デモ動画
-
-https://github.com/user-attachments/assets/e273c326-2261-487c-994f-78ffcd4db0ce
+<video width="100%" controls>
+  <source src="docs/CSVtoWeb.mp4" type="video/mp4">
+</video>
 
 ---
 
