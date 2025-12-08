@@ -31,14 +31,14 @@ Web フォームへ入力 → 送信 → 結果ログ保存まで行うツール
 ---
 
 # 🛠 技術スタック
-| 分類 | 技術 |
-|------|------|
-| 言語 | Python |
-| UI | Streamlit |
-| 自動操作 | Selenium WebDriver |
-| ORM | SQLAlchemy |
-| DB | SQLite |
-| CSV解析 | pandas |
+| 分類 | 技術 |<br>
+|------|------|<br>
+| 言語 | Python |<br>
+| UI | Streamlit |<br>
+| 自動操作 | Selenium WebDriver |<br>
+| ORM | SQLAlchemy |<br>
+| DB | SQLite |<br>
+| CSV解析 | pandas |<br>
 | テスト | pytest（MagicMock / monkeypatch / in-memory DB） |
 
 ---
