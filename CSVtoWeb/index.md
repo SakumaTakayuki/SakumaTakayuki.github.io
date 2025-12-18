@@ -56,9 +56,3 @@ https://github.com/SakumaTakayuki/CSVtoWEB
 - メモリDBを使った高速テスト
 
 ---
-
-# 👤 作者について
-- VB.NET 実務経験：2年8ヶ月（2025/12 現在）
-- 業務効率化スプレッドシートの作成経験多数
-- データ集計・自動化設計が得意
-- 副業で Excel / Spreadsheet / Web自動化ツール などの自動化案件を積極受注中

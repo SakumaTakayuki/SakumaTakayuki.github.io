@@ -46,9 +46,3 @@ https://docs.google.com/spreadsheets/d/1W7GUE9dnqYfKrYkJj-xenWb5qx_yOBjSAe1I_N6-
 - 月次テンプレート作成
 
 ---
-
-# 👤 作者について
-- VB.NET 実務経験：2年8ヶ月（2025/12 現在）<br>
-- 業務効率化スプレッドシートの作成経験多数<br>
-- データ集計・自動化設計が得意<br>
-- 副業で Excel / Spreadsheet / Web自動化ツール などの自動化案件を積極受注中
