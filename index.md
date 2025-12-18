@@ -31,6 +31,21 @@ CSV を貼り付けるだけで売上を自動集計し、<br>
 
 ---
 
+## 🔹 注文・在庫管理ツール（SKU・在庫引当対応）<br>
+**Googleフォーム / Google スプレッドシート / Google Apps Script（GAS）**
+
+Googleフォームで受け付けた注文をもとに、  
+**在庫引当・受注管理・発送管理・売上集計・通知メール送信**までを行う  
+小規模事業者向けの注文・在庫管理ツールです。
+
+在庫不足時の注文制御や、  
+**在庫引当・出庫確定・メール送信の二重実行防止**など、  
+実務で起こりがちな事故を防ぐ設計を重視しています。
+
+👉 **[プロジェクト詳細を見る](OrderInventoryManagement/)**
+
+---
+
 # 📫 Contact<br>
 Email: sakuma0117.w@gmail.com<br>
 GitHub: https://github.com/SakumaTakayuki<br>
