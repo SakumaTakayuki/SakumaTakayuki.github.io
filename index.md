@@ -15,6 +15,10 @@
 
 ---
 
+※ 業務ロジックを含むツールについては、  
+　READMEで設計思想を公開し、実装詳細は非公開としています。
+
+
 ## 🔹 CSV → Web登録 自動化ツール<br>
 **Python / Streamlit / Selenium / SQLAlchemy**
 
