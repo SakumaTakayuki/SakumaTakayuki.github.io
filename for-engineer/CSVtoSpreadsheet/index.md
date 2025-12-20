@@ -45,4 +45,14 @@ https://docs.google.com/spreadsheets/d/1W7GUE9dnqYfKrYkJj-xenWb5qx_yOBjSAe1I_N6-
 - データ貼付の自動クリーニング機能<br>
 - 月次テンプレート作成
 
+
 ---
+
+## 📫 お問い合わせ
+
+お仕事のご相談はお気軽にどうぞ。
+
+👉 [お問い合わせはこちら](./contact/)
+
+GitHub: https://github.com/SakumaTakayuki  
+X: https://x.com/sakuma_takayuki

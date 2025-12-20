@@ -33,12 +33,12 @@ Google Apps Script（GAS）を用いて構築しており、
 以下は本ツールの構成が分かる一部画面です。
 
 - 注文管理・在庫・売上を管理するシート構成  
-<img src="../docs/注文管理01.png" alt="注文管理01" title="注文管理01">
-<img src="../docs/注文管理02.png" alt="注文管理02" title="注文管理02">
+<img src="./docs/注文管理01.png" alt="注文管理01" title="注文管理01">
+<img src="./docs/注文管理02.png" alt="注文管理02" title="注文管理02">
 - 状態管理・事故防止を考慮した列設計  
-<img src="../docs/状態管理・事故防止.png" alt="状態管理・事故防止" title="状態管理・事故防止">
+<img src="./docs/状態管理・事故防止.png" alt="状態管理・事故防止" title="状態管理・事故防止">
 - 管理者向けカスタムメニュー  
-<img src="../docs/カスタムメニュー.png" alt="カスタムメニュー" title="カスタムメニュー">
+<img src="./docs/カスタムメニュー.png" alt="カスタムメニュー" title="カスタムメニュー">
 
 ※ 実装コードおよび詳細ロジックは非公開としています。
 
@@ -186,3 +186,14 @@ Googleフォーム側の入力制御を前提とし、
 - CSV出力
 - 外部システム連携
 - 詳細ログ管理
+
+---
+
+## 📫 お問い合わせ
+
+お仕事のご相談はお気軽にどうぞ。
+
+👉 [お問い合わせはこちら](./contact/)
+
+GitHub: https://github.com/SakumaTakayuki  
+X: https://x.com/sakuma_takayuki

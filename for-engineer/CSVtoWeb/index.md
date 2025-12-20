@@ -16,7 +16,7 @@ Web フォームへ入力 → 送信 → 結果ログ保存まで行うツール
 
 ## 🎥 デモ動画
 <video width="100%" controls>
-  <source src="../docs/CSVtoWeb.mp4" type="video/mp4">
+  <source src="./docs/CSVtoWeb.mp4" type="video/mp4">
 </video>
 
 ---
@@ -55,4 +55,14 @@ https://github.com/SakumaTakayuki/CSVtoWEB
 - テスト容易性を意識した構成
 - メモリDBを使った高速テスト
 
+
 ---
+
+## 📫 お問い合わせ
+
+お仕事のご相談はお気軽にどうぞ。
+
+👉 [お問い合わせはこちら](./contact/)
+
+GitHub: https://github.com/SakumaTakayuki  
+X: https://x.com/sakuma_takayuki
