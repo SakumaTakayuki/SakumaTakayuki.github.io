@@ -62,7 +62,7 @@ https://github.com/SakumaTakayuki/CSVtoWEB
 
 お仕事のご相談はお気軽にどうぞ。
 
-👉 [お問い合わせはこちら](./contact/)
+👉 [お問い合わせはこちら](../../contact/index.md)
 
 GitHub: https://github.com/SakumaTakayuki  
 X: https://x.com/sakuma_takayuki
